@@ -6,5 +6,5 @@ Run the file "run.py" it will perform all of the steps that are mentioned in the
 
 To add additional datasets:
 
-Add .csv files to task_data folders in order to reflect in final dataset.
+Add .csv files to task_data folder in order to reflect in final dataset.
 Same data structure should be used as in task_data_1/2.
