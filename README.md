@@ -1,5 +1,8 @@
 # DE_task
 
+Pre-requisites:
+Run in terminal "pip install -r requirements.txt" to install all required used packages.
+
 How to use:
 
 In terminal change the directory accordingly and run the file "run.py" by "python run.py" it will perform all of the steps that are mentioned in the Task_GMG_data_engineer.pdf
